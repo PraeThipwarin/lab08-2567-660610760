@@ -28,7 +28,7 @@ const Tasks = [
       </div>
 
       {/* //footer section */}
-      <Footer year='2023' name='Thipwarin Seewarangkoon' studentId='660610760'/>
+      <Footer year='2024' name='Thipwarin Seewarangkoon' studentId='660610760'/>
     </div>
   );
 }
